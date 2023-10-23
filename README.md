@@ -30,7 +30,7 @@ RSSHub can be used with browser extension [RSSHub Radar](https://github.com/DIYg
 ### Special Sponsors
 
 <p>
-<a href="https://xlog.app/" target="_blank"><img height="100px" src="https://i.imgur.com/JuhHTKD.png"></a>
+<a href="https://xlog.app/" target="\_blank"><img height="100px" src="https://i.imgur.com/JuhHTKD.png"></a>
 </p>
 
 [![](https://opencollective.com/static/images/become_sponsor.svg)](https://docs.rsshub.app/support/)
@@ -43,14 +43,14 @@ Logo designer [sheldonrrr](https://dribbble.com/sheldonrrr)
 
 ### Backers
 
-<a href="https://www.cloudflare.com" target="_blank"><img height="50px" src="https://i.imgur.com/7Ph27Fq.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.netlify.com" target="_blank"><img height="40px" src="https://i.imgur.com/cU01915.png"></a>
+<a href="https://www.cloudflare.com" target="\_blank"><img height="50px" src="https://i.imgur.com/7Ph27Fq.png"></a>       <a href="https://www.netlify.com" target="\_blank"><img height="40px" src="https://i.imgur.com/cU01915.png"></a>
 
 ## Related Projects
 
--   [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) | A browser extension that can help you quickly discover and subscribe to the RSS and RSSHub of current websites.
--   [RSSBud](https://github.com/Cay-Zhang/RSSBud) ([TestFlight](https://testflight.apple.com/join/rjCVzzHP)) | RSSHub Radar for iOS platform, designed specifically for mobile ecosystem optimization.
--   [RSSAid](https://github.com/LeetaoGoooo/RSSAid) | RSSHub Radar for Android platform built with Flutter.
--   [DocSearch](https://github.com/Fatpandac/DocSearch) | Link RSSHub DocSearch into Raycast
+- [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) | A browser extension that can help you quickly discover and subscribe to the RSS and RSSHub of current websites.
+- [RSSBud](https://github.com/Cay-Zhang/RSSBud) ([TestFlight](https://testflight.apple.com/join/rjCVzzHP)) | RSSHub Radar for iOS platform, designed specifically for mobile ecosystem optimization.
+- [RSSAid](https://github.com/LeetaoGoooo/RSSAid) | RSSHub Radar for Android platform built with Flutter.
+- [DocSearch](https://github.com/Fatpandac/DocSearch) | Link RSSHub DocSearch into Raycast
 
 ## Join Us
 
@@ -74,19 +74,19 @@ You can support RSSHub via donations.
 
 Recurring donors will be rewarded via express issue response, or even have your name displayed on our GitHub page and website.
 
--   Become a Sponser on [GitHub](https://github.com/sponsors/DIYgod)
--   Become a Sponser on [Patreon](https://www.patreon.com/DIYgod)
--   Become a Sponser on [Open Collective](https://opencollective.com/RSSHub)
--   Become a Sponser on [爱发电](https://afdian.net/@diygod)
--   Contact us directly: i@diygod.me
+- Become a Sponser on [GitHub](https://github.com/sponsors/DIYgod)
+- Become a Sponser on [Patreon](https://www.patreon.com/DIYgod)
+- Become a Sponser on [Open Collective](https://opencollective.com/RSSHub)
+- Become a Sponser on [爱发电](https://afdian.net/@diygod)
+- Contact us directly: i@diygod.me
 
 ### One-time Donation
 
 We accept donations via the following ways:
 
--   [WeChat Pay](https://archive.diygod.me/images/wx.jpg)
--   [Alipay](https://archive.diygod.me/images/zfb.jpg)
--   [Paypal](https://www.paypal.me/DIYgod)
+- [WeChat Pay](https://archive.diygod.me/images/wx.jpg)
+- [Alipay](https://archive.diygod.me/images/zfb.jpg)
+- [Paypal](https://www.paypal.me/DIYgod)
 
 ## Author
 
